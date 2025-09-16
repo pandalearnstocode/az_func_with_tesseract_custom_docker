@@ -26,8 +26,11 @@ docker run -it --rm func-hello:latest powershell
 tesseract --version
 ```
 
-## Example Output (Windows)
+## Running in Docker
 
 ![Running Docker](01_running_docker.png)
+
+## Validating Installation inside docker image
+
 ![Validate Installation](02_validate_installation.png)
 
